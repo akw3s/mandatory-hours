@@ -1,1 +1,1 @@
-﻿# mandatory-hours
+﻿# Mandatory Hours
